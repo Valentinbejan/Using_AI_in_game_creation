@@ -5,6 +5,11 @@
 [video-game-AI.pptx](https://github.com/Valentinbejan/Using_AI_in_game_creation/files/13561719/video-game-AI.pptx)
 
 
+
+https://github.com/Valentinbejan/Using_AI_in_game_creation/assets/118570823/58b60f66-630f-49e7-9309-69cb0b6d24dd
+
+
+
 ChatGPT:
 
 -It can generated multiple compelling narratives and characters.
